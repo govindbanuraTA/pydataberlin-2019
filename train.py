@@ -1,13 +1,15 @@
-import sys
+import os
 import warnings
+import sys
+
+import pandas as pd
+import numpy as np
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import ElasticNet
 
 import mlflow
 import mlflow.sklearn
-import numpy as np
-import pandas as pd
-from sklearn.linear_model import ElasticNet
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-from sklearn.model_selection import train_test_split
 
 
 def eval_metrics(actual, pred):
@@ -35,8 +37,7 @@ if __name__ == "__main__":
     warnings.filterwarnings("ignore")
     np.random.seed(40)
 
-    # Read the wine-quality csv file (make sure you're running this from
-    # the root of MLflow!)
+    # Read the wine-quality csv file (make sure you're running this from the root of MLflow!)
     data_path = "data/wine-quality.csv"
     train_x, train_y, test_x, test_y = load_data(data_path)
 

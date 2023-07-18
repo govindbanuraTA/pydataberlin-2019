@@ -1,0 +1,15 @@
+artifact_uri: /home/govind/pydataberlin-2019/mlruns/0/1a4cc2f95c13494e9f37686dd1cdef99/artifacts
+end_time: 1689593545727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a4cc2f95c13494e9f37686dd1cdef99
+run_name: peaceful-horse-491
+run_uuid: 1a4cc2f95c13494e9f37686dd1cdef99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689593403209
+status: 3
+tags: []
+user_id: govind

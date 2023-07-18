@@ -1,0 +1,15 @@
+artifact_uri: /home/govind/pydataberlin-2019/mlruns/400707604728736058/ea0e8ef4ddc14a19b765018864d8bdcb/artifacts
+end_time: 1689678429344
+entry_point_name: ''
+experiment_id: '400707604728736058'
+lifecycle_stage: active
+run_id: ea0e8ef4ddc14a19b765018864d8bdcb
+run_name: selective-bird-208
+run_uuid: ea0e8ef4ddc14a19b765018864d8bdcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689678427808
+status: 3
+tags: []
+user_id: govind

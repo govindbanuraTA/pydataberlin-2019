@@ -1,0 +1,15 @@
+artifact_uri: /home/govind/pydataberlin-2019/mlruns/400707604728736058/b737896e5fb64c54b5ed0426d1a4d592/artifacts
+end_time: 1689588470657
+entry_point_name: ''
+experiment_id: '400707604728736058'
+lifecycle_stage: active
+run_id: b737896e5fb64c54b5ed0426d1a4d592
+run_name: burly-stag-162
+run_uuid: b737896e5fb64c54b5ed0426d1a4d592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689588469043
+status: 3
+tags: []
+user_id: govind

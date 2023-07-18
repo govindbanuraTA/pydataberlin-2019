@@ -1,0 +1,6 @@
+artifact_location: /home/govind/pydataberlin-2019/mlruns/400707604728736058
+creation_time: 1689588052885
+experiment_id: '400707604728736058'
+last_update_time: 1689588052885
+lifecycle_stage: active
+name: ElasticNet_wine
